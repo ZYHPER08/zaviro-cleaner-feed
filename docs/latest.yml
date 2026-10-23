@@ -1,8 +1,8 @@
-version: 0.0.0
+version: 1.2.1
 files:
-  - url: placeholder
-    sha512: placeholder
-    size: 0
-path: placeholder
-sha512: placeholder
-releaseDate: '2026-10-23T11:40:02.061Z'
+  - url: https://github.com/ZYHPER08/zaviro-cleaner-feed/releases/download/v1.2.1/ZAVIRO.Cleaner.Setup.1.2.1.exe
+    sha512: /F3k/ps9k5hm0d1Dv35+1G+McG9TNU3Zc17scZpIG76B5zd8Q8ycti526FZDXzG85hWmEE3b8ZbNlxEN/rMbSw==
+    size: 80744238
+path: https://github.com/ZYHPER08/zaviro-cleaner-feed/releases/download/v1.2.1/ZAVIRO.Cleaner.Setup.1.2.1.exe
+sha512: /F3k/ps9k5hm0d1Dv35+1G+McG9TNU3Zc17scZpIG76B5zd8Q8ycti526FZDXzG85hWmEE3b8ZbNlxEN/rMbSw==
+releaseDate: '2026-10-23T11:40:24.589Z'
